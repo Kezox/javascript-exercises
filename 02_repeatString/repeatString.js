@@ -1,5 +1,5 @@
 const repeatString = function() {
-  'hey'*3
+
 
 };
 
